@@ -16,7 +16,7 @@ h3 {
     bottom: 60px;
     padding: 10px;
     color: #fff;
-    background: #4aaaa5;
+    background: #001b3d;
     font-family: Georgia, Times, "Times New Roman", serif;
     text-align: center;
     white-space: nowrap;
@@ -27,18 +27,18 @@ h5 {
     bottom: 60px;
     padding: 10px;
     color: #fff;
-    background: #4aaaa5;
+    background: #001b3d;
     font-family: Georgia, Times, "Times New Roman", serif;
     text-align: center;
     white-space: nowrap;  
 }
 
 a {
-    color: #4aaaa5;
+    color: #001b3d;
 }
 
 a:hover {
-    color: #5e7f7e;
+    color: #6c97cc;
 }
 
 p:last-child {
@@ -69,7 +69,7 @@ p:last-child {
     color: #fff;
     text-align: center;
     text-decoration: none;
-    background: #4aaaa5;
+    background: #001b3d;
 }
 
 .main-container {
@@ -84,7 +84,7 @@ p:last-child {
     margin-bottom: 30px;
     padding-top: 30px;
     padding-bottom: 25px;
-    color: #4aaaa5;
+    color: #001b3d;
     border-bottom: 3px solid #cccccc;
     font-family: 'Georgia', Times, "Times New Roman", serif;
 }
@@ -96,7 +96,7 @@ p:last-child {
 
 .color-btn {
     color: #fff;
-    background: #4aaaa5;
+    background: #001b3d;
 }
 
 /* Sticky footer */
@@ -118,7 +118,7 @@ body {
     font-size: 14px;
     color: #ccc;
     background: #666;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #001b3d;
 }
 
 /* Gallery Image width */
@@ -129,15 +129,15 @@ body {
 /* Hover */
 #logo:hover,
 input[type=submit]:hover {
-    background: #5e7f7e;
+    background: #6c97cc;
 }
 
 nav a:hover {
-    color: #5e7f7e;
+    color: #6c97cc;
 }
 
 .color-btn:hover {
-    background: #5e7f7e;
+    background: #6c97cc;
 }
 /* Hover end */
 
